@@ -1,0 +1,52 @@
+//Arrow-Panah
+//Panah adalah singkatan fungsi menggunakan sintaks =>. Mereka secara sindikasi mirip dengan fitur terkait di C#, Java 8 dan CoffeeScript. Mereka mendukung kedua badan blok pernyataan serta badan ekspresi yang mengembalikan nilai ekspresi. Tidak seperti fungsi, panah memiliki leksikal yang sama dengan kode sekitarnya.
+
+// Expression bodies-badan ekspresi
+var odds = evens.map(v => v + 1);
+var nums = evens.map((v, i) => v + i);
+var pairs = evens.map(v => ({even: v, odd: v + 1}));
+
+// Statement bodies-badan pernyataan
+nums.forEach(v => {
+  if (v % 5 === 0)
+    lima.push(v);
+});
+
+// Lexical this-leksikal ini
+var hart = {
+  _nama: "hart",
+  _friend: [], 
+  printTeman() {
+    this._Teman.forEach(f =>
+      console.log(this._nama + " Tau " + f));
+  }
+}
+
+
+//Classes-Kelas
+//Classes-Kelas adalah gula sederhana di atas pola OO berbasis prototipe. Memiliki bentuk deklaratif yang nyaman membuat pola kelas lebih mudah digunakan, dan mendorong interoperabilitas. Kelas mendukung pewarisan berbasis prototipe, panggilan super, instans, dan metode statis dan konstruktor.
+
+class SkinnedMesh extends THREE.Mesh {
+  constructor(geometry, materials) {
+    super(geometry, materials);
+
+    this.idMatrix = SkinnedMesh.defaultMatrix();
+    this.bones = [];
+    this.boneMatrices = [];
+    //...
+  }
+  update(camera) {
+    //...
+    super.update();
+  }
+  get boneCount() {
+    return this.bones.length;
+  }
+  set matrixType(matrixType) {
+    this.idMatrix = SkinnedMesh[matrixType]();
+  }
+  static defaultMatrix() {
+    return new THREE.Matrix4();
+  }
+}
+
