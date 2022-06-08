@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Big Data 
 - 💞️ I’m looking to collaborate with start up
 - 📫 How to reach me ?  
-  U can find me in WhatsApp : +6285824045636
-  U can find me in Instagram : @yunhart_p1002
-  U can find me in Facebook : Yunhart Poli
+>  Find Me (TELEGRAM)   : @Yhartpx
+>  Find Me (INSTAGRAM)  : @yhartpx
 
 <!---
 hartpoli/hartpoli is a ✨ special ✨ repository because its `README.md` (Personal) appears on your GitHub profile.
