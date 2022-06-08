@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Big Data 
 - 💞️ I’m looking to collaborate with start up
 - 📫 How to reach me ?  
+
 >  Find Me (TELEGRAM)   : @Yhartpx
+
 >  Find Me (INSTAGRAM)  : @yhartpx
 
 <!---
