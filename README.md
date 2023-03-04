@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @hartpoli
 - 👀 I’m interested in Web programming & Development
-- 🌱 I’m currently learning Big Data 
+- 🌱 I’m currently learn Cyber Analysis 
 - 💞️ I’m looking to collaborate with start up
 - 📫 How to reach me ?  
-
->  Find Me (TELEGRAM)   : @Yhartpx
 
 >  Find Me (INSTAGRAM)  : @yhartpx
 
