@@ -40,3 +40,4 @@ console.log(funfact);
 
 }
 ```
+:sparkles: :sparkles: - Sparkles
