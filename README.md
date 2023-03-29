@@ -39,7 +39,8 @@ console.log(email);
 console.log(funfact);
 
 }
-```
+
+<!--
 `:sparkles:` - Sparkles
 `:fire:` - Fire
 `:bug:` - Bug
@@ -71,4 +72,4 @@ console.log(funfact);
 `:unlock:` - Unlock
 `:eyes:` - Eyes
 `:octocat:` - Octocat
-
+-->
