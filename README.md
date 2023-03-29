@@ -40,6 +40,7 @@ console.log(funfact);
 
 }
 ```
+<br>
 :sparkles: :sparkles: - Sparkles
 :fire: :fire: - Fire
 :bug: :bug: - Bug
@@ -71,3 +72,4 @@ console.log(funfact);
 :unlock: :unlock: - Unlock
 :eyes: :eyes: - Eyes
 :octocat: :octocat: - Octocat
+</br>
