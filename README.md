@@ -39,7 +39,7 @@ console.log(email);
 console.log(funfact);
 
 }
-
+```
 <!--
 `:sparkles:` - Sparkles
 `:fire:` - Fire
