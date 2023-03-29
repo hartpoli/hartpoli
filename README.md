@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @hartpoli
-- 👀 I’m interested in Web programming & Development
-- 🌱 I’m currently learn Cyber Analysis 
-- 💞️ I’m looking to collaborate with start up
-- 📫 How to reach me ?  
-
->  Find Me (INSTAGRAM)  : @yhartpx
-
-<!---
-hartpoli/hartpoli is a ✨ special ✨ repository because its `README.md` (Personal) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h1>Hello <Dev/>,<br/>My Name Is Hart</h1>
+  <h3>Indonesia</h3>
+</div>
