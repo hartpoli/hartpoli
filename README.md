@@ -40,36 +40,35 @@ console.log(funfact);
 
 }
 ```
-<br>
-:sparkles: :sparkles: - Sparkles
-:fire: :fire: - Fire
-:bug: :bug: - Bug
-:memo: :memo: - Memo
-:art: :art: - Art
-:rocket: :rocket: - Rocket
-:tada: :tada: - Tada
-:book: :book: - Book
-:computer: :computer: - Computer
-:bulb: :bulb: - Bulb
-:recycle: :recycle: - Recycle
-:speech_balloon: :speech_balloon: - Speech Balloon
-:chart_with_upwards_trend: :chart_with_upwards_trend: - Chart with Upwards Trend
-:package: :package: - Package
-:gear: :gear: - Gear
-:zap: :zap: - Zap
-:gift: :gift: - Gift
-:raising_hand: :raising_hand: - Raising Hand
-:muscle: :muscle: - Muscle
-:bulb: :bulb: - Lightbulb
-:construction: :construction: - Construction
-:hourglass: :hourglass: - Hourglass
-:sparkler: :sparkler: - Sparkler
-:wrench: :wrench: - Wrench
-:mag: :mag: - Magnifying Glass
-:green_book: :green_book: - Green Book
-:warning: :warning: - Warning
-:lock: :lock: - Lock
-:unlock: :unlock: - Unlock
-:eyes: :eyes: - Eyes
-:octocat: :octocat: - Octocat
-</br>
+`:sparkles:` - Sparkles
+`:fire:` - Fire
+`:bug:` - Bug
+`:memo:` - Memo
+`:art:` - Art
+`:rocket:` - Rocket
+`:tada:` - Tada
+`:book:` - Book
+`:computer:` - Computer
+`:bulb:` - Bulb
+`:recycle:` - Recycle
+`:speech_balloon:` - Speech Balloon
+`:chart_with_upwards_trend:` - Chart with Upwards Trend
+`:package:` - Package
+`:gear:` - Gear
+`:zap:` - Zap
+`:gift:` - Gift
+`:raising_hand:` - Raising Hand
+`:muscle:` - Muscle
+`:bulb:` - Lightbulb
+`:construction:` - Construction
+`:hourglass:` - Hourglass
+`:sparkler:` - Sparkler
+`:wrench:` - Wrench
+`:mag:` - Magnifying Glass
+`:green_book:` - Green Book
+`:warning:` - Warning
+`:lock:` - Lock
+`:unlock:` - Unlock
+`:eyes:` - Eyes
+`:octocat:` - Octocat
+
