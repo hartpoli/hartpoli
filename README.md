@@ -147,6 +147,6 @@ console.log(funfact);
 </div>
 
 <div align="center">
-  <p>Let this snake devour all the contributions.</p>
+  <h1>Let this snake devour all the contributions.<h1>
   <img width="99.5%" src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
 </div>
