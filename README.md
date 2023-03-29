@@ -130,7 +130,7 @@ console.log(funfact);
     <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntellJ IDEA" height="40" width="40"> 
   </a>
   <a href="https://netbeans.apache.org" title="Apache NetBeans">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40"   width="auto">
   </a>
   <a href="https://developer.android.com/studio" title="Android Studio">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40">
@@ -144,6 +144,46 @@ console.log(funfact);
   <a href="https://www.markdownguide.org" title="Markdown">
     <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
   </a>
+  <a href="https://flutter.dev" title="Flutter">
+    <img src="https://api.iconify.design/bi/flutter-fill.svg?color=%23aaa" alt="Flutter" height="40" width="40"> 
+  </a>
+  <a href="https://www.mongodb.com" title="MongoDB">
+    <img src="https://api.iconify.design/vscode-icons/file_type_mongo.svg?color=%23aaa" alt="MongoDB" height="40" width="40"> 
+  </a>
+  <a href="https://firebase.google.com" title="Firebase">
+    <img src="https://api.iconify.design/vscode-icons/file_type_firebase.svg?color=%23aaa" alt="Firebase" height="40" width="40"> 
+  </a>
+  <a href="https://www.blender.org" title="Blender 3D">
+    <img src="https://api.iconify.design/cib/blender.svg?color=%23aaa" alt="Blender 3D" height="40" width="40"> 
+  </a>
+  <a href="https://unity.com" title="Unity">
+    <img src="https://api.iconify.design/logos-3d/unity-69.svg?color=%23aaa" alt="Unity" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop">
+    <img src="https://api.iconify.design/vscode-icons/file_type_ps.svg?color=%23aaa" alt="Photoshop" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" title="Adobe After Effects">
+    <img src="https://api.iconify.design/vscode-icons/file_type_aftereffects.svg?color=%23aaa" alt="Adobe After Effects" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator">
+    <img src="https://api.iconify.design/vscode-icons/file_type_ai.svg?color=%23aaa" alt="Adobe Illustrator" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere Pro">
+    <img src="https://api.iconify.design/vscode-icons/file_type_premiere.svg?color=%23aaa" alt="Adobe Premiere Pro" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD">
+    <img src="https://api.iconify.design/vscode-icons/file_type_xd.svg?color=%23aaa" alt="Adobe XD" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD">
+    <img src="https://api.iconify.design/vscode-icons/file_type_xd.svg?color=%23aaa" alt="Adobe XD" height="40" width="40"> 
+  </a>
+  <a href="https://www.adobe.com/products/audition.html" title="Adobe Audition">
+    <img src="https://api.iconify.design/vscode-icons/file_type_adobe_audition.svg?color=%23aaa" alt="Adobe Audition" height="40" width="40"> 
+  </a>
+  <a href="https://www.arduino.cc/" title="Arduino">
+    <img src="https://api.iconify.design/simple-icons/arduino.svg?color=%23aaa" alt="Arduino" height="40" width="40"> 
+  </a>
+
 </div>
 
 <div align="center">
