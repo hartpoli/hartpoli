@@ -22,13 +22,13 @@
 console.log("👋🏻 Yunihart Poli");
 console.log("Hello World is not my first code But My Life Is Same Like Hello World");
 
-const work    = `:construction:` "As Freelancer";
-const study   = `:computer:` "Universitas Sam Ratulangi (UNSRAT)";
-const major   = `:memo:` "Information Technology (IT)";
-const learn   = `:green_book:` "Data Science, Software Development, Cyberops, Cloud Computing, Web Development, Machine Learning";
-const ask     = `:recycle:` "Web Development, 3D Design, Cyberlearn, UI/UX";
-const email = `:package:` "mdohart4@gmail.COm";
-const funfact = `:chart_with_upwards_trend:` "Life Is Nothing";
+const work    =  "As Freelancer";
+const study   =  "Universitas Sam Ratulangi (UNSRAT)";
+const major   =  "Information Technology (IT)";
+const learn   =  "Data Science, Software Development, Cyberops, Cloud Computing, Web Development, Machine Learning";
+const ask     =  "Web Development, 3D Design, Cyberlearn, UI/UX";
+const email   =  "mdohart4@gmail.COm";
+const funfact =  "Life Is Nothing";
 
 console.log(work);
 console.log(study);
@@ -41,3 +41,33 @@ console.log(funfact);
 }
 ```
 :sparkles: :sparkles: - Sparkles
+:fire: :fire: - Fire
+:bug: :bug: - Bug
+:memo: :memo: - Memo
+:art: :art: - Art
+:rocket: :rocket: - Rocket
+:tada: :tada: - Tada
+:book: :book: - Book
+:computer: :computer: - Computer
+:bulb: :bulb: - Bulb
+:recycle: :recycle: - Recycle
+:speech_balloon: :speech_balloon: - Speech Balloon
+:chart_with_upwards_trend: :chart_with_upwards_trend: - Chart with Upwards Trend
+:package: :package: - Package
+:gear: :gear: - Gear
+:zap: :zap: - Zap
+:gift: :gift: - Gift
+:raising_hand: :raising_hand: - Raising Hand
+:muscle: :muscle: - Muscle
+:bulb: :bulb: - Lightbulb
+:construction: :construction: - Construction
+:hourglass: :hourglass: - Hourglass
+:sparkler: :sparkler: - Sparkler
+:wrench: :wrench: - Wrench
+:mag: :mag: - Magnifying Glass
+:green_book: :green_book: - Green Book
+:warning: :warning: - Warning
+:lock: :lock: - Lock
+:unlock: :unlock: - Unlock
+:eyes: :eyes: - Eyes
+:octocat: :octocat: - Octocat
