@@ -22,13 +22,13 @@
 console.log("👋🏻 Yunihart Poli");
 console.log("Hello World is not my first code But My Life Is Same Like Hello World");
 
-const work    =  "As Freelancer";
-const study   =  "Universitas Sam Ratulangi (UNSRAT)";
-const major   =  "Information Technology (IT)";
-const learn   =  "Data Science, Software Development, Cyberops, Cloud Computing, Web Development, Machine Learning";
-const ask     =  "Web Development, 3D Design, Cyberlearn, UI/UX";
-const email   =  "mdohart4@gmail.COm";
-const funfact =  "Life Is Nothing";
+const work = "As Freelancer";
+const study = "Universitas Sam Ratulangi (UNSRAT)";
+const major = "Information Technology (IT)";
+const learn = "Data Science, Software Development, Cyberops, Cloud Computing, Web Development, Machine Learning";
+const ask = "Web Development, 3D Design, Cyberlearn, UI/UX";
+const email = "mdohart4@gmail.com";
+const funfact = "Life Is Nothing";
 
 console.log(work);
 console.log(study);
@@ -38,7 +38,6 @@ console.log(ask);
 console.log(email);
 console.log(funfact);
 
-}
 ```
 
 <!--
