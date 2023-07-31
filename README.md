@@ -144,8 +144,3 @@ console.log(funfact);
     <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
   </a>
 </div>
-
-<div align="center">
-  <h1>Let this snake devour all the contributions.<h1>
-  <img width="99.5%" src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
-</div>
