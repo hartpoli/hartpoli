@@ -23,7 +23,6 @@ console.log("👋🏻 Yunihart Poli");
 console.log("Hello World is not my first code But My Life Is Same Like Hello World");
 
 const work = "As Freelancer";
-const study = "Universitas Sam Ratulangi (UNSRAT)";
 const major = "Information Technology (IT)";
 const learn = "Data Science, Software Development, Cyberops, Cloud Computing, Web Development, Machine Learning";
 const ask = "Web Development, 3D Design, Cyberlearn, UI/UX";
