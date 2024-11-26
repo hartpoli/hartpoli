@@ -30,7 +30,6 @@ const email = "mdohart4@gmail.com";
 const funfact = "Life Is Nothing";
 
 console.log(work);
-console.log(study);
 console.log(major);
 console.log(learn);
 console.log(ask);
