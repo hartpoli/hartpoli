@@ -126,9 +126,6 @@ console.log(funfact);
   <a href="https://www.jetbrains.com/idea" title="IntellJ IDEA">
     <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntellJ IDEA" height="40" width="40"> 
   </a>
-  <a href="https://netbeans.apache.org" title="Apache NetBeans">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40"   width="auto">
-  </a>
   <a href="https://developer.android.com/studio" title="Android Studio">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40">
   </a>
